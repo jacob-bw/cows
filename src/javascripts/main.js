@@ -1,4 +1,9 @@
-import 'bootstrap';
+import cowList from './components/cowList/cowList';
+
 import '../styles/main.scss';
 
-console.error('hello world');
+const init = () => {
+  cowList.buildCows();
+};
+
+init();

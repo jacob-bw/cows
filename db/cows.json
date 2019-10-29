@@ -3,17 +3,17 @@
     "cow1":{
       "name": "Bessy",
       "breed": "Jersey",
-      "weight": "lots"
+      "weight": 666
     },
     "cow2":{
       "name": "Bessie",
       "breed": "Angus",
-      "weight": "a lot"
+      "weight": 2000
     },
     "cow3":{
       "name": "Ferdinand",
       "breed": "Jersey",
-      "weight": "lots"
+      "weight": 420
     }
   }
 }
